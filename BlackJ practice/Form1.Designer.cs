@@ -71,7 +71,6 @@
             this.button1.TabIndex = 3;
             this.button1.Text = "Hit me";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
             // 
@@ -81,7 +80,6 @@
             this.label1.Size = new System.Drawing.Size(33, 13);
             this.label1.TabIndex = 4;
             this.label1.Text = "Deck";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -117,7 +115,6 @@
             this.label5.Size = new System.Drawing.Size(33, 13);
             this.label5.TabIndex = 8;
             this.label5.Text = "Hand";
-            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // Form1
             // 
